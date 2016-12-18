@@ -1,3 +1,5 @@
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/daraobeirne/pythonapi)
 The suggested order of viewing the sample notebooks is the following:
 
 Get Started
